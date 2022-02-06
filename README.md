@@ -1,7 +1,7 @@
 <!--- ![Anthony Tesoriero](http://anttes.com/static/media/AnthonyTesoriero.da1216f6.png) --->
 # 👋 Hi, I’m Anthony (@anttesoriero), and Welcome to my GitHub!
 - 👀 I’m interested in AI, Machine Learning, Robotics, AR, and more
-- 🌱 I’m a recent graduate - CS major, AI Concentration, and Mathematics Minor at Rowan University, graduating May 2021
+- 🌱 I’m a recent graduate - CS major, AI Concentration, and Mathematics Minor at Rowan University
 - 💞️ I’m looking for full-time work in the NYC, Silicon Valley, or LA areas
 - 📫 Visit my website at [AntTes.com](http://anttes.com) to find more contact info, or my [resume](http://anttes.com/AnthonyTesorieroResume.pdf)
 
